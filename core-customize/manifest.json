@@ -168,6 +168,11 @@
         {
             "name": "accstorefront",
             "properties": [
+                
+                {
+                    "key": "tomcat.development.mode",
+                    "value": "true"
+                },
                 {
                     "key": "spring.session.enabled",
                     "value": "true"
