@@ -171,7 +171,7 @@
                 
                 {
                     "key": "tomcat.development.mode",
-                    "value": "true"
+                    "value": "false"
                 },
                 {
                     "key": "spring.session.enabled",
